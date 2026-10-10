@@ -1,0 +1,50 @@
+
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.2/font/bootstrap-icons.min.css");
+
+/* Gaya sidebar */
+[data-testid="stSidebar"] {
+    background-color: #17243D;
+}
+
+[data-testid="stSidebar"] h2,
+[data-testid="stSidebar"] h3,
+[data-testid="stSidebar"] p,
+[data-testid="stSidebar"] label {
+    color: #F8FAFC;
+}
+
+/* Logo dan nama StudyMate AI */
+.sidebar-brand {
+    display: flex;
+    align-items: center;
+}
+
+.sidebar-brand i {
+    color: #C7D2FE;
+    font-size: 28px;
+    margin-right: 12px;
+    flex-shrink: 0;
+}
+
+.sidebar-brand span {
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.sidebar-subtitle {
+    font-size: 13px;
+}
+
+/* Judul utama halaman */
+.main-title {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    color: #17243D;
+    font-size: 2.2rem;
+    font-weight: 700;
+}
+
+.main-title i {
+    color: #4F46E5;
+}
