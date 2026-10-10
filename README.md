@@ -1,8 +1,6 @@
 # Ollama service for uts
 
-## Nama Aplikasi
-
-**StudyMate AI** — asisten belajar berbasis kecerdasan buatan.
+## StudyMate AI** — asisten belajar berbasis kecerdasan buatan.
 
 Mahasiswa sering membutuhkan bantuan untuk memahami dan menyelesaikan soal
 dari berbagai mata kuliah. Proyek ini menghadirkan StudyMate AI, aplikasi web
